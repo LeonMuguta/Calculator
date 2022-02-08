@@ -23,6 +23,8 @@ body {
     border-radius: 5px;
     width: 98%;
     height: 70%;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .button {
@@ -34,6 +36,8 @@ body {
     border-radius: 5px;
     height: 70%;
     outline: none;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .button:active {
